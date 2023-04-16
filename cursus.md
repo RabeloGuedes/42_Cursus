@@ -1,0 +1,50 @@
+- 42 Cursus
+  - Common Core
+    - Rank 0
+	  - Libft
+    - Rank 1
+	  - get_next_line
+	  - ft_printf
+	  - Born2beroot
+    - Rank 2
+	  - Exam Rank 2
+	  - Opt 3
+	    - fract-ol
+	    - FdF
+	    - so_long
+	  - Opt 2
+	  	- minitalk
+		- pipex
+	  - push_swap
+    - Rank 3
+	  - Exam Rank 3
+	  - minishell
+	  - Philosophers
+    - Rank 4
+	  - Exam Rank 4
+	  - NetPractice
+	  - Opt 2
+	    - miniRT
+		- cub3d
+	  - CPP Module 00
+	  - CPP Module 01
+	  - CPP Module 02
+	  - CPP Module 03
+	  - CPP Module 04
+    - Rank 5
+	  - Exam Rank 5
+	  - Inception
+	  - Opt 2
+	    - webserv
+		- ft_irc
+		- CPP Module 05
+		- CPP Module 06
+		- CPP Module 07
+		- CPP Module 08
+		- CPP Module 09
+    - Rank 6
+	  - Exam Rank 6
+	  - ft_transcendence
+	- Intership 04-06 Months
+
+  - Specialization
